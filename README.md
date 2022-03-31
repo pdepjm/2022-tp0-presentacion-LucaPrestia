@@ -2,4 +2,6 @@
 
 ## Estudiante: Luca Prestia
 ![mi foto](mifoto.jpeg)
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+Hola!
+Como podras ver me llamo Luca.Me gusta mucho el futbol y los jugar a la compu.
+Odio algebra.
